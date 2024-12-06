@@ -1,0 +1,52 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+    background-color: #f9f9f9;
+}
+
+header {
+    border-bottom: 1px solid #eaeaea;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: #555;
+}
+
+.nav-link:hover {
+    text-decoration: underline;
+    color: #000;
+}
+
+.basket-btn {
+    display: flex;
+    align-items: center;
+}
+
+.basket-item img {
+    border-radius: 8px;
+}
+
+.basket-item {
+    background-color: #fff;
+}
+
+aside h3 {
+    font-family: 'Playfair Display', serif;
+}
+
+.basket-item img {
+    width: 80px;
+    height: auto;
+    border-radius: 5px; 
+}
+
+.btn-custom-green {
+    background-color: #28a745; 
+    color: #fff; 
+    border: none;
+}
+
+.btn-custom-green:hover {
+    background-color: #218838; 
+}
